@@ -1,7 +1,14 @@
-# Movies ETL
+# Movies Extract Transform and Load
 Create a function that takes in three arguments:
 
-    Wikipedia data
+# Objective
+In this project, a Python script will be created to extract movies datasets from Wikipedia and Kaggle, transform the dataset and loads it.
+
+# Resources
+- Python
+- Jupyter Notebook
+
+Wikipedia data
 
     Kaggle metadata
 
