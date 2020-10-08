@@ -48,3 +48,11 @@ As shown in the data jupyter notebook [LN 105]
 
     The budget_wiki data have more outliers compared to the budget_kaggle data.
     There are movies with no data in the Kaggle column, and wiki has budget data.
+
+
+## Background
+## Project Overview
+## Resources
+## Data Source
+## Machine Learning Model
+## Findings and Recommendation
