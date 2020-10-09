@@ -1,3 +1,5 @@
+<img src="pic.jpg" alt="drawing" width="300"/>
+
 # Movies Extract Transform and Load
 Create a function that takes in three arguments:
 
